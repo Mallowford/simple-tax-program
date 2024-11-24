@@ -3,3 +3,8 @@
 enum Currencies {
   US
 };
+
+class Converter {
+  private:
+  public:
+};
